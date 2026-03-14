@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using TP_MODUL4_103022400002;
+
+class Program
+{
+    
+}
